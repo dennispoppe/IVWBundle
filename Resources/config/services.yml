@@ -1,0 +1,4 @@
+services:
+#    ivw.example:
+#        class: xrow\IVWBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

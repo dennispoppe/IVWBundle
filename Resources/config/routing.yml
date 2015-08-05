@@ -1,0 +1,3 @@
+ivw_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: IVWBundle:Default:index }
